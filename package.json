@@ -19,15 +19,15 @@
     "loopback-component-explorer": "^6.0.0",
     "loopback-connector-mongodb": "^1.18.1",
     "serve-favicon": "^2.0.1",
-    "strong-error-handler": "^3.0.0"
-  },
-  "devDependencies": {
+    "strong-error-handler": "^3.0.0",
     "chai": "^4.1.2",
     "chai-http": "^4.0.0",
-    "eslint": "^3.17.1",
-    "eslint-config-loopback": "^8.0.0",
     "mocha": "^5.2.0",
     "morgan": "^1.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.17.1",
+    "eslint-config-loopback": "^8.0.0"
   },
   "repository": {
     "type": "",
